@@ -7,7 +7,7 @@ Dr. Stanley Fung - HybridTableTester.cpp, HybridTableTester.h, HybridTableTester
 
 ## Description 
 
-We were tasked in the C++ module to create a custom adaptive array. In other words, this is an array that is originally a fixed size as provided however, upon adding indices that are outside it's bounds, a linked list is created and linked to the array. This makes it "adaptive" and can be resized any time.
+This is a C++ program that creates a custom adaptive array. In other words, this is an array that is originally a fixed size as provided however, upon adding indices that are outside it's bounds, a linked list is created and linked to the array. This makes it "adaptive" and can be resized any time.
 
 A screenshot of how it would look is shown below. 
 
@@ -15,6 +15,11 @@ A screenshot of how it would look is shown below.
 
 ![A screenshot showing the adaptive array](https://github.com/aanassor1/Custom-Adaptive-Array/blob/main/Example_Screenshot.png)
 
+## What I learnt
+* C++
+* Array Manipulation
+* Linked List Manipulation
+  
 ## Installation
 
 Go onto Github, find the project and clone the repository.
