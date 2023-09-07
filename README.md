@@ -16,7 +16,6 @@ A screenshot of how it would look is shown below.
 ![A screenshot showing the adaptive array](https://github.com/aanassor1/Custom-Adaptive-Array/blob/main/Example_Screenshot.png)
 
 ## What I learnt
-* C++
 * Array Manipulation
 * Linked List Manipulation
 * Data structures
