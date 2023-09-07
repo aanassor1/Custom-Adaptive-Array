@@ -19,6 +19,7 @@ A screenshot of how it would look is shown below.
 * C++
 * Array Manipulation
 * Linked List Manipulation
+* Data structures
   
 ## Installation
 
